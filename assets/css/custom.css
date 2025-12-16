@@ -1,4 +1,6 @@
 
+/* Franciele Teles dos Santos - 77262 */
+
 nav.theme-dark, nav.theme-dark ul.links-wrapper.active { background-color: #0f172a }
 
 header.theme-dark   { background-color: #0f172a }
@@ -11,4 +13,11 @@ footer.theme-dark   { background-color: #0f172a }
 
 header .col-text h2, .col-1 > h3 { line-height: 1.8 }
 
+.pi {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    border-radius: 5%;
+    border: 3px solid #fcfcfc;
+}
 
